@@ -2,9 +2,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tera487&theme=vue)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tera487)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tera487&layout=compact&hide=javascript,html,css,)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tera487)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tera487&layout=compact&hide=javascript,html,css,)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
